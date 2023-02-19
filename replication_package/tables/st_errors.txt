@@ -1,0 +1,4 @@
+,results
+true_fe,0.23
+true_rob,0.54
+av_est_rob,0.58
