@@ -5,7 +5,7 @@ set.seed(12345)
 
 
 ## set the working directory to ../replication_pacage/
-setwd("~/Dropbox/Research/causal_cluster/replication_package/")
+#setwd("~/Dropbox/Research/causal_cluster/replication_package/")
 original_data <- read.dta13("data/wtbb_publicdata.dta", generate.factors = TRUE)
 
 int_var <- c("hostid_0", "presenting", "collected",
