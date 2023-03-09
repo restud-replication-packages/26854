@@ -6,6 +6,5 @@ praise: "It is a well structured and easy-to-use replciation package!"
 requests:
   - *DAS
   - *cite_data
-  - There are some minor discrepancies in the replicated table_1.txt and the submitted/manuscript version of Table 1, the IPW and Doubly Robust columns' values are slightly different after running the codes for us.
+  - There are some minor discrepancies in the replicated table_1.txt and the submitted/manuscript version of Table 1, the IPW and Doubly Robust columns' values are slightly different for us. Please double check whether your code gives the exact same numbers as in the manuscript.
 recommendations:
-  -

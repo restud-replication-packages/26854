@@ -1,0 +1,23 @@
+Dear Dmitry,
+
+Thank you for sending the replication materials for "Fixed Effects and the Generalized Mundlak Estimator" to the Review. 
+
+To help our readers replicate your results, my team and I have reviewed the code, data and documentation you have submitted.
+
+To comply with our Data Availability Policy, please make the following changes:
+
+1. Include a formal Data Availability Statement for each of the datasets you are using. The goal is to describe clearly the steps that readers have to take if they want to access the data. Please see here (https://social-science-data-editors.github.io/template_README/) for examples and further guidance.
+2. Add data citations in the README as well as the manuscript for each dataset you use, whether you include it in the package or not. Citing data sources in the manuscript is the best was of directing readers to them. Please see here (https://social-science-data-editors.github.io/guidance/addtl-data-citation-guidance.html) for examples and further guidance.
+3. There are some minor discrepancies in the replicated table_1.txt and the submitted/manuscript version of Table 1, the IPW and Doubly Robust columns' values are slightly different for us. Please double check whether your code gives the exact same numbers as in the manuscript.
+
+After you have made these changes, please upload the revision to Zenodo and send me the link to the new version. 
+
+When creating the new version, please edit the date of the Zenodo record to reflect when you have made the changes. Please keep the Trello email address in the "cc" of your reply email, so that we can properly track your package in our system.
+
+Best regards,
+
+Miklos
+
+Miklós Koren
+Data Editor, Review of Economic Studies
+
