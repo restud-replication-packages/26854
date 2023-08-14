@@ -1,5 +1,4 @@
 library(readstata13)
-library(randomForest)
 rm(list = ls())
 set.seed(12345)
 

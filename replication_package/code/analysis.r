@@ -14,7 +14,7 @@ av_chars <- list_to_save[[2]]
 full_data <- merge(subset_data, av_chars)
 
 indiv_reg <- paste(colnames(full_data)[5:11], collapse = "+", sep = "")
-agg_reg <-  paste(colnames(full_data)[c(13:20)], collapse =  "+" , sep = "")
+agg_reg <-  paste(colnames(full_data)[c(13:20)], collapse =  "+", sep = "")
 formula_ols_full <- paste("Y_2~", paste("W",
 paste(indiv_reg, agg_reg, sep = "+"), sep = "+"), sep = "")
 formula_ols_w <- paste("W", paste(indiv_reg, agg_reg, sep = "+"), sep = "~")
